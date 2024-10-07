@@ -11,5 +11,6 @@ I am passionate about expanding my expertise in artificial intelligence, machine
 - [Instagram](https://www.instagram.com/giorgiamodi)
 
 📚 **Educational Background**:
+- **High School Diploma** - Liceo Scientifico Giotto Ulivi, Borgo San Lorenzo
 - **B.Sc. in Computer Engineering** - University of Florence
-- **M.Sc. in Computer Engineering** - Politecnico di Torino (Artificial Intelligence and Data Analytics)
+- **M.Sc. in Computer Engineering** (in progress) - Politecnico di Torino (Artificial Intelligence and Data Analytics)
