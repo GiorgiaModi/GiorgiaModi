@@ -8,7 +8,6 @@ I am passionate about expanding my expertise in artificial intelligence, machine
 - Based in Italy 🇮🇹
 - Email: [giorgiamodi@gmail.com]
 - [LinkedIn](https://www.linkedin.com/in/giorgia-modi-bab07a1a6) 
-- [Instagram](https://www.instagram.com/giorgiamodi)
 
 📚 **Educational Background**:
 - **High School Diploma** - Liceo Scientifico Giotto Ulivi, Borgo San Lorenzo (Florence)
