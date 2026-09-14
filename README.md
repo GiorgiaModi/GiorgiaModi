@@ -1,15 +1,10 @@
 ## Hi there, I'm Giorgia 👋
 
-I have recently completed a Master’s degree in **Computer Engineering** at Politecnico di Torino, specializing in **Artificial Intelligence and Data Analytics**. I hold a Bachelor's degree in **Computer Engineering** at the University of Florence.
+I have recently completed a Master’s degree in Computer Engineering at Politecnico di Torino, specializing in Artificial Intelligence and Data Analytics.
 
-I am passionate about expanding my expertise in artificial intelligence, machine learning and robotics.
+I am currently working as an Applied Robotics Engineer at [Generative Bionics](https://gbionics.ai/).
 
 🌍 **Where to find me**:
-- Based in Turin 🇮🇹
-- Email: [giorgiamodi@gmail.com]
-- [LinkedIn](https://www.linkedin.com/in/giorgia-modi-bab07a1a6) 
-
-📚 **Educational Background**:
-- **High School Diploma** - Liceo Scientifico Giotto Ulivi, Borgo San Lorenzo (Florence)
-- **B.Sc. in Computer Engineering** - University of Florence
-- **M.Sc. in Computer Engineering (Artificial Intelligence and Data Analytics)** - Politecnico di Torino 
+- Based in Genoa 🇮🇹
+- Email: giorgiamodi@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/giorgiamodi/) 
